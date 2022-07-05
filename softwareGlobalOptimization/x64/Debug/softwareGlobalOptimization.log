@@ -1,4 +1,4 @@
-﻿  methods_optimization.cpp
-C:\Users\pinez\Downloads\git\software_global_optimization\softwareGlobalOptimization\methods_optimization.cpp(111,12): warning C4101: dx: неиспользованная локальная переменная
+﻿  MainForm.cpp
+C:\Users\pinez\Downloads\git\software_global_optimization\softwareGlobalOptimization\MainForm.cpp(10,38): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
   arithmetic_analyzer.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   softwareGlobalOptimization.vcxproj -> C:\Users\pinez\Downloads\git\software_global_optimization\x64\Debug\softwareGlobalOptimization.exe

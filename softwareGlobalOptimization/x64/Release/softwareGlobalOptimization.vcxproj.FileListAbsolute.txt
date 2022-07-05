@@ -1,2 +1,3 @@
 C:\Users\pinez\Downloads\git\software_global_optimization\softwareGlobalOptimization\x64\Release\softwareGlobalOptimization.MainForm.resources
 C:\Users\pinez\Downloads\git\software_global_optimization\softwareGlobalOptimization\x64\Release\softwareGlobalOptimization.vcxproj.GenerateResource.cache
+C:\Users\pinez\Downloads\git\software_global_optimization\softwareGlobalOptimization\x64\Release\softwareGlobalOptimization.vcxproj.AssemblyReference.cache
