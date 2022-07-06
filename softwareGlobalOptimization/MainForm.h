@@ -170,7 +170,7 @@ namespace softwareGlobalOptimization {
 			this->GroupBoxFunc->Dock = System::Windows::Forms::DockStyle::Fill;
 			this->GroupBoxFunc->Location = System::Drawing::Point(3, 3);
 			this->GroupBoxFunc->Name = L"GroupBoxFunc";
-			this->GroupBoxFunc->Size = System::Drawing::Size(410, 84);
+			this->GroupBoxFunc->Size = System::Drawing::Size(421, 84);
 			this->GroupBoxFunc->TabIndex = 0;
 			this->GroupBoxFunc->TabStop = false;
 			this->GroupBoxFunc->Text = L"Целевая функция";
@@ -265,7 +265,7 @@ namespace softwareGlobalOptimization {
 			this->GroupBoxMethodParam->Dock = System::Windows::Forms::DockStyle::Fill;
 			this->GroupBoxMethodParam->Location = System::Drawing::Point(3, 93);
 			this->GroupBoxMethodParam->Name = L"GroupBoxMethodParam";
-			this->GroupBoxMethodParam->Size = System::Drawing::Size(410, 164);
+			this->GroupBoxMethodParam->Size = System::Drawing::Size(421, 164);
 			this->GroupBoxMethodParam->TabIndex = 1;
 			this->GroupBoxMethodParam->TabStop = false;
 			this->GroupBoxMethodParam->Text = L"Метод и параметры";
@@ -403,7 +403,7 @@ namespace softwareGlobalOptimization {
 			this->ButtonStart->Dock = System::Windows::Forms::DockStyle::Fill;
 			this->ButtonStart->Location = System::Drawing::Point(3, 263);
 			this->ButtonStart->Name = L"ButtonStart";
-			this->ButtonStart->Size = System::Drawing::Size(410, 64);
+			this->ButtonStart->Size = System::Drawing::Size(421, 64);
 			this->ButtonStart->TabIndex = 2;
 			this->ButtonStart->Text = L"Начать расчет";
 			this->ButtonStart->UseVisualStyleBackColor = true;
@@ -420,7 +420,7 @@ namespace softwareGlobalOptimization {
 			this->GroupBoxInfo->Dock = System::Windows::Forms::DockStyle::Fill;
 			this->GroupBoxInfo->Location = System::Drawing::Point(3, 333);
 			this->GroupBoxInfo->Name = L"GroupBoxInfo";
-			this->GroupBoxInfo->Size = System::Drawing::Size(410, 150);
+			this->GroupBoxInfo->Size = System::Drawing::Size(421, 150);
 			this->GroupBoxInfo->TabIndex = 3;
 			this->GroupBoxInfo->TabStop = false;
 			this->GroupBoxInfo->Text = L"Справка";
@@ -503,7 +503,7 @@ namespace softwareGlobalOptimization {
 			this->Chart->ChartAreas->Add(chartArea1);
 			legend1->Name = L"Legend1";
 			this->Chart->Legends->Add(legend1);
-			this->Chart->Location = System::Drawing::Point(425, 3);
+			this->Chart->Location = System::Drawing::Point(436, 3);
 			this->Chart->Name = L"Chart";
 			series1->BorderWidth = 3;
 			series1->ChartArea = L"ChartArea1";
@@ -533,7 +533,7 @@ namespace softwareGlobalOptimization {
 			this->Chart->Series->Add(series1);
 			this->Chart->Series->Add(series2);
 			this->Chart->Series->Add(series3);
-			this->Chart->Size = System::Drawing::Size(984, 486);
+			this->Chart->Size = System::Drawing::Size(973, 486);
 			this->Chart->TabIndex = 4;
 			this->Chart->Text = L"Chart";
 			// 
@@ -558,7 +558,7 @@ namespace softwareGlobalOptimization {
 			this->TableLayoutPanelTask->RowStyles->Add((gcnew System::Windows::Forms::RowStyle(System::Windows::Forms::SizeType::Absolute,
 				70)));
 			this->TableLayoutPanelTask->RowStyles->Add((gcnew System::Windows::Forms::RowStyle()));
-			this->TableLayoutPanelTask->Size = System::Drawing::Size(416, 486);
+			this->TableLayoutPanelTask->Size = System::Drawing::Size(427, 486);
 			this->TableLayoutPanelTask->TabIndex = 5;
 			// 
 			// TableLayoutPanelMain
@@ -566,7 +566,7 @@ namespace softwareGlobalOptimization {
 			this->TableLayoutPanelMain->AutoSize = true;
 			this->TableLayoutPanelMain->ColumnCount = 2;
 			this->TableLayoutPanelMain->ColumnStyles->Add((gcnew System::Windows::Forms::ColumnStyle(System::Windows::Forms::SizeType::Absolute,
-				422)));
+				433)));
 			this->TableLayoutPanelMain->ColumnStyles->Add((gcnew System::Windows::Forms::ColumnStyle(System::Windows::Forms::SizeType::Percent,
 				100)));
 			this->TableLayoutPanelMain->Controls->Add(this->Chart, 1, 0);
